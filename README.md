@@ -1,7 +1,7 @@
 ## *stanCode* projects
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.\
-Watch my *[DEMO VIDEOS!] (https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISyGzVPLd5Bztdvd7rF?fbclid=IwAR36BW3v_bHn-Idsh-0_ROSWLwrXOzoervZId25OOzH2LX4b6FCGDfULdDg)*
+Watch my *[DEMO VIDEOS!] (https://drive.google.com/drive/folders/1Js3SEYZJmSE67758yL11aOS3hpg5MxbO?usp=sharing)*
 
 ## Project Source Codes:
 * [Blur Images](https://github.com/sharlenechen0113/sc-projects/tree/main/stanCode%20Projects/blur_images)
